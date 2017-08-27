@@ -1,0 +1,26 @@
+
+.uname, .upassword {
+    width: 200px;
+    display: inline-block;
+}
+
+#username {
+}
+
+#password {
+}
+.center-block {
+    width:290px;
+    padding:10px;
+}
+
+
+
+p.button input{
+    position: relative;
+    left: 50%;
+    margin-top: 5%;
+    margin-right: -50%;
+    transform: translate(-50%);
+    padding: 8px 12px;
+}
