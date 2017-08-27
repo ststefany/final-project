@@ -9,14 +9,18 @@
 
 <body>
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-1 col-md-offset-10">Name</div>
-        <div class="col-md-1">
-            <a href="login.jsp"> Log out</a>
-
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href=#> Testing portal </a>
         </div>
+        <p class=" navbar-text navbar-right">Signed in as Name <a href="login.jsp"> Log out</a></p>
+
     </div>
+</nav>
+
+<div class="container">
+
     <div class="row">
         <div class="col-sm-2">
             <h3>Menu</h3>
