@@ -14,7 +14,7 @@
         <div class="navbar-header">
             <a class="navbar-brand" href=#> Testing portal </a>
         </div>
-        <p class=" navbar-text navbar-right">Signed in as Name <a href="login.jsp"> Log out</a></p>
+        <p class=" navbar-text navbar-right">Welcome, Name <a href="login.jsp"> Log out</a></p>
 
     </div>
 </nav>
